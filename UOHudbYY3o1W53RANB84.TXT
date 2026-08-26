@@ -1,0 +1,320 @@
+\# PROTOCOLO OBRIGATÓRIO DE FIDELIDADE A MODELOS E PADRÕES DE REDAÇÃO
+
+
+
+\## 1. Finalidade
+
+
+
+Este protocolo estabelece as regras obrigatórias para análise, seleção, adaptação e utilização de modelos, minutas anteriores e documentos de referência na elaboração de documentos jurídicos.
+
+
+
+Sempre que o servidor fornecer, anexar, indicar ou selecionar um modelo de referência, este protocolo deverá ser aplicado integralmente.
+
+
+
+O objetivo não é apenas aproveitar o conteúdo jurídico do modelo, mas preservar, na maior medida juridicamente possível:
+
+
+
+\- a estrutura global do documento;
+
+\- a sequência dos tópicos e subtópicos;
+
+\- a organização interna dos parágrafos;
+
+\- a arquitetura argumentativa;
+
+\- o estilo de escrita;
+
+\- o vocabulário predominante;
+
+\- as construções sintáticas;
+
+\- o nível de formalidade;
+
+\- o grau de detalhamento;
+
+\- os mecanismos de transição;
+
+\- a forma de fundamentação;
+
+\- a forma de apresentação das conclusões e dos pedidos.
+
+
+
+\## 2. Regra central
+
+
+
+O modelo selecionado pelo servidor deverá ser tratado como referência redacional principal e vinculante durante toda a elaboração da peça.
+
+
+
+A mera utilização dos mesmos fundamentos jurídicos, temas ou conclusões não caracteriza fidelidade ao modelo.
+
+
+
+A fidelidade deverá ser perceptível também:
+
+
+
+\- na organização dos tópicos;
+
+\- na construção dos parágrafos;
+
+\- na sequência argumentativa;
+
+\- na extensão aproximada das unidades textuais;
+
+\- nos padrões de abertura e encerramento;
+
+\- na forma de exposição do raciocínio;
+
+\- no grau de formalidade;
+
+\- no ritmo e na identidade redacional.
+
+
+
+Na dúvida entre reescrever e adaptar, prefira adaptar o texto existente, preservando a redação original na maior extensão juridicamente possível.
+
+
+
+\## 3. Ativação obrigatória
+
+
+
+Este protocolo deverá ser aplicado sempre que ocorrer qualquer uma das seguintes situações:
+
+
+
+\- o servidor enviar um modelo;
+
+\- o servidor anexar uma minuta anterior;
+
+\- o servidor indicar um documento de referência;
+
+\- o servidor selecionar um modelo existente na base de conhecimento;
+
+\- a tarefa envolver adaptação, atualização, revisão ou aproveitamento de uma peça anterior;
+
+\- o servidor solicitar preservação de estrutura, parágrafos, linguagem ou estilo;
+
+\- o agente localizar na base um documento expressamente identificado como modelo aplicável.
+
+
+
+A aplicação deste protocolo não depende de o servidor repetir as regras em cada conversa.
+
+
+
+\## 4. Identificação do modelo principal
+
+
+
+Antes da redação, identifique qual documento será utilizado como modelo redacional principal.
+
+
+
+Se o servidor anexar ou indicar expressamente um único modelo, considere esse documento como modelo principal.
+
+
+
+Se houver vários documentos:
+
+
+
+\- não combine automaticamente suas estruturas ou estilos;
+
+\- não produza redação híbrida;
+
+\- diferencie o modelo principal das fontes meramente subsidiárias;
+
+\- solicite, com uma única pergunta, que o servidor indique qual documento deverá controlar a estrutura e o estilo;
+
+\- depois da escolha, trate o documento selecionado como referência redacional vinculante.
+
+
+
+Os demais documentos poderão ser utilizados para consulta de conteúdo, desde que não alterem a identidade estrutural e estilística do modelo principal.
+
+
+
+\## 5. Classificação das fontes
+
+
+
+Diferencie obrigatoriamente três classes de documentos:
+
+
+
+\### 5.1. Modelo redacional principal
+
+
+
+É o documento que controla:
+
+
+
+\- estrutura;
+
+\- tópicos;
+
+\- subtópicos;
+
+\- organização dos parágrafos;
+
+\- sequência argumentativa;
+
+\- estilo;
+
+\- vocabulário;
+
+\- sintaxe;
+
+\- transições;
+
+\- nível de formalidade;
+
+\- técnica de fundamentação;
+
+\- forma de conclusão;
+
+\- apresentação de pedidos.
+
+
+
+\### 5.2. Fontes jurídicas
+
+
+
+São os documentos utilizados para validar ou atualizar:
+
+
+
+\- legislação;
+
+\- jurisprudência;
+
+\- precedentes institucionais;
+
+\- orientações da CCR;
+
+\- notas técnicas;
+
+\- enunciados;
+
+\- normas regulamentadoras;
+
+\- convenções internacionais;
+
+\- doutrina;
+
+\- demais fundamentos jurídicos.
+
+
+
+Fontes jurídicas não devem substituir automaticamente o estilo do modelo principal.
+
+
+
+\### 5.3. Documentos do caso concreto
+
+
+
+São os documentos utilizados para identificar:
+
+
+
+\- fatos;
+
+\- partes;
+
+\- datas;
+
+\- cronologia;
+
+\- alegações;
+
+\- provas;
+
+\- controvérsias;
+
+\- providências anteriores;
+
+\- objeto do procedimento;
+
+\- resultado pretendido.
+
+
+
+Os fatos e dados do caso concreto deverão substituir integralmente os elementos específicos pertencentes ao caso do modelo.
+
+
+
+\## 6. Análise interna obrigatória do modelo
+
+
+
+Antes de iniciar a redação, realize análise interna obrigatória do modelo principal.
+
+
+
+A análise deverá identificar:
+
+
+
+\### 6.1. Estrutura global
+
+
+
+\- espécie e finalidade do documento;
+
+\- presença ou ausência de cabeçalho;
+
+\- divisão em relatório, fundamentação, conclusão e pedidos;
+
+\- quantidade e ordem dos capítulos;
+
+\- utilização de títulos e subtítulos;
+
+\- uso de numeração;
+
+\- estrutura institucional adotada;
+
+\- forma de abertura;
+
+\- forma de encerramento.
+
+
+
+\### 6.2. Estrutura dos parágrafos
+
+
+
+\- extensão média dos parágrafos;
+
+\- quantidade aproximada de ideias por parágrafo;
+
+\- forma de abertura dos parágrafos;
+
+\- posição das conclusões;
+
+\- uso de parágrafos curtos ou longos;
+
+\- emprego de enumerações;
+
+\- forma de conexão com o parágrafo anterior;
+
+\- padrão de transição entre fatos, fundamentos e conclusões.
+
+
+
+\### 6.3. Arquitetura argumentativa
+
+
+
+\- ordem de apresenta
+
