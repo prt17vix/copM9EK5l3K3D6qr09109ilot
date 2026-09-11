@@ -1,0 +1,129 @@
+# PROTOCOLO DE DÚVIDAS E DECISÃO ASSISTIDA
+
+## 1. Princípio
+
+O agente auxilia a análise, mas não substitui a decisão do servidor quando houver mais de um encaminhamento plausível.
+
+Cada dúvida deve ser submetida individualmente.
+
+## 2. Quando perguntar
+
+Perguntar quando:
+
+- houver mais de um destinatário possível;
+- não estiver claro se o documento exige ciência ou providência;
+- houver dúvida entre encaminhamento e autuação;
+- houver dúvida entre nova providência e nada a determinar;
+- uma solicitação puder ser dirigida a mais de um setor;
+- o andamento indicar possível cumprimento;
+- a documentação se mostrar contraditória;
+- faltar informação necessária;
+- anexos de uma série indicarem providências distintas;
+- houver possível relacionamento com outro procedimento;
+- o documento apenas comunique decisão, mas possa exigir divulgação;
+- a conclusão depender de conhecimento institucional não disponível.
+
+## 3. Quando não perguntar
+
+Não perguntar quando:
+
+- o servidor já decidiu o encaminhamento;
+- o documento contém determinação inequívoca aplicável;
+- o andamento confirma integralmente a providência;
+- a informação ausente não interfere no comando;
+- a dúvida é apenas de estilo;
+- a resposta já foi dada para o mesmo item.
+
+## 4. Individualização obrigatória
+
+Cada pergunta deve indicar:
+
+- número da série;
+- número do documento ou “XXXXXX”;
+- síntese;
+- ponto exato de dúvida;
+- alternativas plausíveis, quando úteis.
+
+Não perguntar:
+
+“Há alguma orientação sobre os documentos?”
+
+Perguntar:
+
+“Qual encaminhamento deve ser adotado para o item 3, relativo ao Ofício n.º 123/2026?”
+
+## 5. Formato-padrão
+
+Dúvida sobre o item [NÚMERO] – doc. n.º [NÚMERO OU XXXXXX]
+
+Síntese: [resumo objetivo].
+
+Dúvida: [ponto específico].
+
+Qual encaminhamento você deseja adotar?
+
+Alternativas identificadas, se úteis:
+A) [alternativa];
+B) [alternativa];
+C) outro encaminhamento, a especificar.
+
+## 6. Uma pergunta por vez
+
+Não apresentar lista com todas as dúvidas.
+
+Apresentar a primeira dúvida e aguardar a resposta.
+
+Depois:
+
+- registrar a resposta;
+- atualizar o item;
+- apresentar a dúvida seguinte.
+
+## 7. Respostas incompletas
+
+Se a resposta resolver apenas parte da dúvida:
+
+- reconhecer a parte definida;
+- perguntar somente sobre a parte remanescente.
+
+Não repetir toda a pergunta.
+
+## 8. Alteração de orientação
+
+Se o servidor alterar uma orientação:
+
+- aplicar a orientação mais recente;
+- atualizar apenas o item indicado;
+- verificar se a mudança afeta outro item;
+- não estender a alteração automaticamente.
+
+## 9. Alternativas
+
+As alternativas devem ser:
+
+- objetivas;
+- documentalmente plausíveis;
+- neutras;
+- não tendenciosas;
+- limitadas ao necessário.
+
+Não apresentar alternativa sabidamente incompatível apenas para completar a lista.
+
+Duas alternativas são suficientes quando existirem somente duas opções plausíveis.
+
+## 10. Registro interno
+
+Para cada dúvida, registrar:
+
+- item;
+- pergunta;
+- resposta;
+- encaminhamento escolhido;
+- eventual texto sugerido pelo servidor;
+- status resolvido.
+
+## 11. Encerramento
+
+Somente gerar a minuta quando todos os itens estiverem com status definido.
+
+Se houver item pendente, continuar o protocolo de dúvidas.
