@@ -1,0 +1,177 @@
+# MANUAL DE LEITURA DO ANDAMENTO PROCESSUAL
+
+## 1. Finalidade
+
+Este manual orienta a associação dos documentos analisados aos registros do andamento processual e a identificação de providências já realizadas.
+
+## 2. Informações relevantes
+
+Extrair, quando disponíveis:
+
+- número do procedimento;
+- situação;
+- setor atual;
+- data e hora dos movimentos;
+- tipo de movimento;
+- comentário;
+- número do documento;
+- título;
+- classificação;
+- responsável pelo movimento;
+- setor de origem;
+- setor de destino;
+- documentos expedidos;
+- destinatários;
+- procedimentos relacionados.
+
+## 3. Associação entre peça e número interno
+
+Associar a peça ao registro usando, em conjunto:
+
+- título;
+- espécie documental;
+- número externo;
+- data;
+- ordem de juntada;
+- remetente;
+- assunto;
+- documentos vizinhos;
+- lista de anexos do e-mail.
+
+Não confiar somente na proximidade das páginas.
+
+Exemplo:
+
+E-mail informa três anexos.
+O andamento apresenta um registro de e-mail seguido de três registros documentais.
+Associar a sequência respeitando os títulos e números externos.
+
+## 4. Número a ser usado no despacho
+
+Utilizar o número de documento atribuído no andamento.
+
+Formato esperado:
+
+“doc. n.º 001234.2026”
+
+Preservar:
+
+- zeros;
+- pontuação;
+- ano;
+- ordem interna.
+
+Não converter o número externo da peça em número do andamento.
+
+## 5. Ausência de andamento
+
+Se o andamento não for fornecido:
+
+- utilizar “XXXXXX”;
+- não extrair como substituto o número do ofício, portaria ou relatório;
+- não presumir a numeração do sistema.
+
+Exemplo:
+
+“O doc. n.º XXXXXX trata do Ofício n.º 123/2026...”
+
+## 6. Documento de referência da série
+
+Quando a série contiver e-mail e anexos, escolher como referência:
+
+- o primeiro documento substantivo, quando o modelo adotar esse padrão;
+- o e-mail, quando ele for a peça principal ou formular a solicitação;
+- outro documento indicado pelo servidor.
+
+Se houver dúvida relevante, perguntar qual número deverá identificar o item.
+
+## 7. Providências anteriores
+
+Procurar no andamento:
+
+- despacho anterior;
+- certidão de cumprimento;
+- expedição eletrônica;
+- remessa;
+- autuação;
+- ciência;
+- encaminhamento;
+- atribuição;
+- arquivamento;
+- registro de destinatários.
+
+## 8. Providência integralmente cumprida
+
+Considerar possível cumprimento integral quando o andamento demonstrar:
+
+- expedição do documento aos destinatários;
+- autuação do procedimento determinado;
+- remessa ao setor indicado;
+- certidão expressa de cumprimento;
+- ciência já registrada;
+- despacho posterior reconhecendo o cumprimento.
+
+Se a providência estiver integralmente cumprida, avaliar a formulação:
+
+“Considerando que a providência já foi cumprida, nada a determinar.”
+
+Utilizar somente quando a conclusão for segura.
+
+## 9. Cumprimento parcial
+
+Quando apenas parte da providência estiver cumprida:
+
+- identificar a parte cumprida;
+- identificar a pendência;
+- não repetir a parte concluída;
+- redigir somente a providência remanescente;
+- perguntar ao servidor em caso de dúvida.
+
+## 10. Assunto tratado em outro procedimento
+
+Quando o documento ou o andamento indicar procedimento específico sobre a matéria:
+
+- registrar o número;
+- verificar se a matéria já está sendo tratada;
+- verificar se há necessidade de juntada, encaminhamento ou mera ciência;
+- não concluir automaticamente “nada a determinar”.
+
+Em caso de dúvida, perguntar ao servidor.
+
+## 11. Conflito entre andamento e documentos
+
+Exemplos:
+
+- documento pede divulgação, mas andamento registra expedição parcial;
+- e-mail lista três anexos, mas andamento apresenta dois;
+- peça indica destinatário diferente do registrado;
+- número e título parecem não corresponder.
+
+Nessas situações:
+
+- não corrigir silenciosamente;
+- registrar a inconsistência;
+- perguntar ao servidor se ela afetar o despacho.
+
+## 12. Ordem do despacho
+
+Usar, em regra, a ordem das séries no intervalo selecionado.
+
+O andamento pode ser usado para confirmar:
+
+- sequência da juntada;
+- documento inicial;
+- documentos integrantes da série.
+
+Não reordenar por relevância, salvo orientação do servidor.
+
+## 13. Conferência final
+
+Antes da minuta, confirmar:
+
+- cada série possui número ou “XXXXXX”;
+- números coincidem com os títulos;
+- nenhuma peça recebeu número de outra série;
+- providências cumpridas foram identificadas;
+- duplicidades foram tratadas;
+- conflitos foram solucionados.
