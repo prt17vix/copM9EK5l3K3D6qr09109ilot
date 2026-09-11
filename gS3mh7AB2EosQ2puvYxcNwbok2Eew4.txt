@@ -1,0 +1,183 @@
+# MANUAL DE SEGMENTAÇÃO E FORMAÇÃO DE SÉRIES DOCUMENTAIS
+
+## 1. Finalidade
+
+Este manual orienta a identificação de documentos e a formação de séries documentais em arquivos que podem conter e-mails, ofícios, despachos, portarias, relatórios, certidões, votos, convites, planilhas e outros anexos.
+
+Uma série documental é o conjunto lógico que, em regra, dará origem a um item do despacho.
+
+## 2. Marcadores do PDF
+
+Usar os marcadores do PDF como principal sinal de separação entre documentos.
+
+Cada marcador deve ser considerado um potencial início de documento, mas essa indicação precisa ser conferida com o conteúdo da peça.
+
+Um marcador não deve ser aceito cegamente quando:
+
+- apontar para uma página intermediária;
+- representar apenas um anexo visual;
+- duplicar o título de uma mesma peça;
+- identificar assinatura ou autenticação;
+- separar páginas que pertencem ao mesmo documento.
+
+## 3. Sinais de início de documento
+
+Na ausência de marcador confiável, observar:
+
+- cabeçalho institucional novo;
+- título da peça;
+- número da peça;
+- remetente e destinatário;
+- campo “Assunto”;
+- tela ou impressão de novo e-mail;
+- nova identificação de procedimento;
+- nova assinatura;
+- mudança inequívoca de espécie documental;
+- lista de anexos em mensagem de e-mail.
+
+## 4. Sinais de continuação
+
+Manter as páginas no mesmo documento quando houver:
+
+- frase interrompida na página anterior;
+- mesma numeração de peça;
+- mesmo cabeçalho;
+- mesmo assunto;
+- sequência de itens;
+- repetição de rodapé;
+- continuação da fundamentação;
+- assinatura somente na última página;
+- imagens ou tabelas integrantes do documento anterior.
+
+A mudança de página não cria um documento novo.
+
+## 5. E-mail como início de série
+
+Quando houver um e-mail, o e-mail inicia uma série documental.
+
+A série é composta por:
+
+- e-mail;
+- anexos listados no e-mail;
+- documentos que aparecem imediatamente depois e correspondem à lista de anexos;
+- eventuais materiais complementares do mesmo envio.
+
+Exemplo:
+
+E-mail: “Encaminhamento de convite institucional”
+Anexo 1: Ofício à unidade regional
+Anexo 2: Ofício-convite
+Anexo 3: material de divulgação
+
+Resultado: uma série documental.
+
+## 6. E-mail automático
+
+Quando o e-mail for uma mensagem automática de expedição:
+
+- utilizar o e-mail para identificar remetente, data, procedimento de origem e anexos;
+- concentrar a síntese no conteúdo substantivo dos anexos;
+- não sobrecarregar o despacho com informações técnicas da mensagem automática.
+
+## 7. Encadeamento de e-mails
+
+Se houver resposta, encaminhamento ou cadeia de mensagens:
+
+- verificar se as mensagens tratam do mesmo assunto;
+- evitar contar repetidamente o texto reproduzido;
+- considerar a mensagem mais recente como peça introdutória;
+- usar mensagens anteriores somente para compreender o contexto;
+- identificar anexos efetivamente adicionados em cada etapa.
+
+Se uma nova mensagem formular solicitação diferente, ela poderá iniciar outra série.
+
+## 8. Documento sem e-mail
+
+Quando a documentação começar diretamente por ofício, despacho, relatório ou outra peça:
+
+- o próprio documento inicia a série;
+- documentos seguintes são agregados somente quando houver relação inequívoca.
+
+Exemplo:
+
+Ofício encaminha relatório de fiscalização.
+
+Resultado: ofício e relatório formam uma série.
+
+## 9. Anexos pertencentes à mesma série
+
+Manter anexos na mesma série quando:
+
+- forem citados no e-mail ou documento principal;
+- comprovarem ou detalharem o mesmo assunto;
+- sustentarem a mesma solicitação;
+- forem necessários para compreender uma única providência.
+
+## 10. Anexos com assuntos independentes
+
+Separar anexos em séries ou itens diferentes quando:
+
+- tratarem de assuntos materialmente distintos;
+- tiverem destinatários diferentes;
+- exigirem providências independentes;
+- possuírem prazos distintos;
+- não apresentarem relação com o e-mail introdutório.
+
+Quando a separação não for inequívoca, perguntar ao servidor.
+
+## 11. Múltiplas providências na mesma série
+
+Uma série pode conter mais de uma solicitação.
+
+As providências poderão:
+
+- permanecer no mesmo item, se relacionadas;
+- aparecer em alíneas ou frases separadas;
+- gerar itens distintos, se autônomas;
+- depender de consulta ao servidor.
+
+Exemplo:
+
+Um ofício solicita alteração operacional e aquisição de equipamento.
+
+Se ambas as medidas puderem tramitar juntas, permanecerão no mesmo item.
+
+Se exigirem procedimentos ou destinatários diferentes, avaliar a divisão e consultar o servidor em caso de dúvida.
+
+## 12. Documentos repetidos
+
+Quando a mesma peça aparecer mais de uma vez:
+
+- conferir se é cópia;
+- verificar se foi enviada em séries diferentes;
+- não criar nova providência apenas pela repetição;
+- registrar internamente a duplicidade;
+- consultar o andamento;
+- perguntar ao servidor se a repetição afetar o encaminhamento.
+
+## 13. Documentos ilegíveis ou incompletos
+
+Não adivinhar o conteúdo.
+
+Registrar internamente:
+
+- documento;
+- página;
+- trecho ilegível;
+- impacto sobre a análise.
+
+Se o problema impedir a identificação da providência, perguntar ao servidor.
+
+Se o trecho não afetar a providência, prosseguir e registrar o ponto para revisão humana.
+
+## 14. Critério final de formação
+
+Antes de encerrar a segmentação, verificar:
+
+- onde cada série começa;
+- onde cada série termina;
+- qual é o documento principal;
+- quais são os anexos;
+- qual assunto une o conjunto;
+- se existe uma ou mais providências;
+- se algum documento ficou sem série.
