@@ -1,0 +1,123 @@
+# CHECKLIST DE VALIDAÇÃO FINAL
+
+Antes de apresentar a minuta, conferir todos os itens.
+
+## A. ESCOPO
+
+[ ] O ponto inicial indicado pelo servidor foi respeitado.
+
+[ ] A análise chegou até o último documento aplicável.
+
+[ ] Nenhum documento anterior ao ponto inicial foi incluído indevidamente.
+
+## B. SEGMENTAÇÃO
+
+[ ] Todos os marcadores relevantes foram examinados.
+
+[ ] Páginas de continuação permaneceram no documento correto.
+
+[ ] Cabeçalhos e rodapés não foram tratados como peças.
+
+[ ] Cada e-mail foi associado aos anexos corretos.
+
+[ ] Documentos sem e-mail foram identificados.
+
+[ ] Anexos com assuntos independentes foram separados quando necessário.
+
+## C. ANDAMENTO
+
+[ ] Cada série recebeu o número correto.
+
+[ ] Os zeros, pontos e anos foram preservados.
+
+[ ] “XXXXXX” foi utilizado quando não havia andamento.
+
+[ ] Números externos não foram confundidos com números internos.
+
+[ ] Providências anteriores foram verificadas.
+
+[ ] Cumprimentos parciais e integrais foram diferenciados.
+
+[ ] Eventuais procedimentos relacionados foram considerados.
+
+## D. CONTEÚDO
+
+[ ] O documento principal foi identificado.
+
+[ ] Remetente ou signatário foi identificado corretamente.
+
+[ ] O cargo foi mencionado somente quando disponível.
+
+[ ] O assunto principal foi sintetizado.
+
+[ ] Todas as solicitações foram examinadas.
+
+[ ] Todos os prazos relevantes foram registrados.
+
+[ ] Informações desnecessárias foram omitidas.
+
+[ ] Nenhum fato foi inventado.
+
+## E. DÚVIDAS
+
+[ ] Cada dúvida foi tratada individualmente.
+
+[ ] Somente uma dúvida foi apresentada por vez.
+
+[ ] Todas as respostas foram registradas.
+
+[ ] Cada resposta foi aplicada ao item correto.
+
+[ ] Nenhuma dúvida respondida foi repetida.
+
+[ ] Não existe item com status pendente.
+
+## F. DESPACHO
+
+[ ] Os itens estão em ordem.
+
+[ ] A numeração é sequencial.
+
+[ ] Cada série possui tratamento correspondente.
+
+[ ] Não há duplicidade injustificada.
+
+[ ] Cada item apresenta síntese e conclusão.
+
+[ ] As determinações correspondem às decisões do servidor.
+
+[ ] “Nada a determinar” está fundamentado.
+
+[ ] As providências já cumpridas não foram repetidas sem necessidade.
+
+[ ] Campos desconhecidos estão entre colchetes.
+
+## G. LINGUAGEM
+
+[ ] O texto está em português do Brasil.
+
+[ ] A linguagem é formal e administrativa.
+
+[ ] Não existem comentários da IA.
+
+[ ] Não existe exposição do raciocínio interno.
+
+[ ] Nomes, cargos, datas, siglas e números foram conferidos.
+
+[ ] A concordância e a pontuação foram revisadas.
+
+## H. PRIVACIDADE E REVISÃO HUMANA
+
+[ ] Dados pessoais desnecessários foram omitidos.
+
+[ ] Códigos de validação e endereços foram omitidos.
+
+[ ] A minuta não é apresentada como decisão definitiva.
+
+[ ] Pontos ainda sujeitos a conferência foram indicados em “Pontos para revisão humana”.
+
+Se algum requisito aplicável não estiver atendido:
+
+- não apresentar a minuta como concluída;
+- corrigir a inconsistência;
+- consultar o servidor se a correção depender de decisão.
