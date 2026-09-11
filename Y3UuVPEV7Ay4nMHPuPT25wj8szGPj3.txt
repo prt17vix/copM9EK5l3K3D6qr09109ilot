@@ -1,0 +1,102 @@
+# EXEMPLOS DE INTERAÇÃO E DÚVIDAS INDIVIDUALIZADAS
+
+Os exemplos são fictícios e servem somente como referência de comportamento.
+
+## EXEMPLO 1 – Autuação ou encaminhamento direto
+
+Dúvida sobre o item 2 – doc. n.º 001238.2026
+
+Síntese: o ofício apresenta relatório de atividade e solicita a aquisição de equipamento, além da capacitação de servidores.
+
+Dúvida: os documentos não esclarecem se a solicitação deve ser encaminhada diretamente ao setor administrativo ou se deverá ser autuado novo PGEA para instrução e acompanhamento.
+
+Qual encaminhamento você deseja adotar para este item?
+
+Alternativas identificadas:
+A) autuar novo PGEA com cópia da documentação;
+B) encaminhar diretamente ao setor administrativo competente;
+C) outro encaminhamento, a especificar.
+
+## EXEMPLO 2 – Ciência ou nada a determinar
+
+Dúvida sobre o item 3 – doc. n.º 001242.2026
+
+Síntese: o despacho comunica autorização concedida a membro da unidade regional, e o andamento indica expedição eletrônica ao mesmo membro.
+
+Dúvida: não está claro se a Chefia deseja apenas registrar que o interessado já foi cientificado ou promover nova ciência interna.
+
+Qual encaminhamento você deseja adotar para este item?
+
+Alternativas identificadas:
+A) registrar que o membro já foi cientificado e concluir por nada a determinar;
+B) encaminhar também à unidade administrativa responsável pelos registros;
+C) outro encaminhamento, a especificar.
+
+## EXEMPLO 3 – Destinatários da divulgação
+
+Dúvida sobre o item 4 – doc. n.º 001244.2026
+
+Síntese: o e-mail comunica decisão institucional com orientações sobre cadastramento e distribuição de procedimentos.
+
+Dúvida: os documentos indicam necessidade de divulgação, mas não apresentam lista completa de destinatários na unidade regional.
+
+Qual encaminhamento você deseja adotar para este item?
+
+Alternativas identificadas:
+A) encaminhar a todos os membros e servidores de gabinete;
+B) encaminhar apenas ao setor de autuação e distribuição;
+C) encaminhar aos dois grupos;
+D) outro encaminhamento, a especificar.
+
+## EXEMPLO 4 – Solicitações diferentes no mesmo documento
+
+Dúvida sobre o item 5 – doc. n.º 001250.2026
+
+Síntese: o ofício solicita alteração no planejamento de atividades externas e aquisição de equipamento.
+
+Dúvida: as duas solicitações podem exigir unidades responsáveis diferentes.
+
+Qual encaminhamento você deseja adotar especificamente quanto à aquisição do equipamento?
+
+Alternativas identificadas:
+A) incluir a aquisição no mesmo PGEA;
+B) determinar autuação de PGEA autônomo para a aquisição;
+C) encaminhar a solicitação ao setor administrativo sem nova autuação;
+D) outro encaminhamento, a especificar.
+
+## EXEMPLO 5 – Providência possivelmente cumprida
+
+Dúvida sobre o item 6 – doc. n.º 001254.2026
+
+Síntese: o ofício solicita ciência aos membros da unidade. O andamento registra expedição eletrônica, mas não identifica claramente todos os destinatários.
+
+Dúvida: não é possível confirmar se a divulgação alcançou todos os membros.
+
+Qual encaminhamento você deseja adotar?
+
+Alternativas identificadas:
+A) reiterar a divulgação a todos os membros;
+B) solicitar conferência da lista de destinatários antes de nova expedição;
+C) considerar cumprida a providência;
+D) outro encaminhamento, a especificar.
+
+## EXEMPLO 6 – Resposta do servidor aplicada somente ao item
+
+Servidor:
+
+“Quanto ao item 6, solicite a conferência da lista antes de qualquer nova expedição.”
+
+Comportamento esperado do agente:
+
+- registrar a decisão apenas no item 6;
+- não utilizar a mesma solução em outros itens;
+- apresentar a próxima dúvida pendente;
+- não elaborar ainda a minuta final.
+
+## EXEMPLO 7 – Encerramento das dúvidas
+
+Quando não houver mais pendências, o agente deverá informar de forma breve:
+
+“Todas as dúvidas de encaminhamento foram resolvidas. Apresento abaixo a minuta consolidada.”
+
+Em seguida, apresentar a minuta completa.
