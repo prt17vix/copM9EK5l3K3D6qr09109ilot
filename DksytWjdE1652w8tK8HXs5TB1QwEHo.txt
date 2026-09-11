@@ -1,0 +1,191 @@
+# MANUAL DE REDAÇÃO DO DESPACHO
+
+## 1. Objetivo
+
+Orientar a produção de minuta de despacho formal, objetiva, fiel aos documentos e organizada por séries documentais.
+
+## 2. Estrutura geral
+
+DESPACHO
+
+1 - O doc. n.º [NÚMERO OU XXXXXX] trata de [ESPÉCIE DOCUMENTAL], [IDENTIFICAÇÃO RELEVANTE], no qual [SÍNTESE].
+
+[CONCLUSÃO OU DETERMINAÇÃO.]
+
+2 - O doc. n.º [NÚMERO OU XXXXXX] trata de...
+
+[CONCLUSÃO OU DETERMINAÇÃO.]
+
+Vitória, [DATA].
+
+(assinado eletronicamente)
+
+[NOME DA AUTORIDADE]
+[CARGO]
+
+## 3. Estrutura de cada item
+
+Cada item deverá conter, conforme pertinente:
+
+- número do documento;
+- tipo da peça;
+- número externo da peça;
+- signatário ou remetente;
+- cargo ou função;
+- assunto;
+- fatos relevantes;
+- solicitações;
+- prazos;
+- circunstância relacionada ao andamento;
+- determinação.
+
+## 4. Documento principal
+
+Formas possíveis:
+
+“O doc. n.º 001234.2026 trata do Ofício n.º 123/2026...”
+
+“O doc. n.º 001235.2026 trata de e-mail encaminhado pela unidade solicitante...”
+
+“O doc. n.º XXXXXX trata de despacho assinado por [AUTORIDADE]...”
+
+## 5. Síntese
+
+A síntese deve:
+
+- ser fiel;
+- preservar nomes, números e datas relevantes;
+- apresentar o objeto principal;
+- mencionar pedidos concretos;
+- omitir detalhes sem impacto no encaminhamento;
+- evitar transcrição extensa.
+
+## 6. Signatários e cargos
+
+Mencionar somente quando constarem dos documentos.
+
+Não completar cargo com conhecimento externo.
+
+Não usar tratamento honorífico exagerado.
+
+Preservar o padrão institucional do modelo quando disponível.
+
+## 7. Providência
+
+A providência deve aparecer ao final do item.
+
+Formulações possíveis, quando compatíveis:
+
+“Nesse sentido, encaminhe-se cópia do documento e de seus anexos a [DESTINATÁRIO], para ciência.”
+
+“Nesse sentido, autue-se procedimento com cópia do ofício e dos documentos anexos, para adoção das providências cabíveis.”
+
+“Considerando que a matéria já é objeto do procedimento n.º [NÚMERO], nada a determinar.”
+
+“Considerando que os documentos também foram encaminhados diretamente ao destinatário competente, nada a determinar.”
+
+“Dê-se ciência a [DESTINATÁRIO].”
+
+“Encaminhem-se os documentos a [SETOR], para manifestação.”
+
+“Promovam-se os encaminhamentos necessários ao atendimento da solicitação.”
+
+Essas formulações não são decisões automáticas.
+
+## 8. Providências múltiplas
+
+Quando relacionadas, utilizar o mesmo item:
+
+“Nesse sentido:
+
+a) encaminhe-se...
+b) solicite-se...
+c) após, retornem os autos...”
+
+Quando forem autônomas e relacionadas a peças diferentes, usar itens separados.
+
+## 9. “Nada a determinar”
+
+Utilizar apenas quando houver fundamento expresso, como:
+
+- providência já cumprida;
+- destinatário competente já cientificado;
+- matéria integralmente tratada em outro procedimento;
+- documento meramente informativo sem providência adicional.
+
+Indicar brevemente a razão.
+
+Evitar “nada a determinar” sem fundamentação.
+
+## 10. Ausência do andamento
+
+Usar exatamente:
+
+“O doc. n.º XXXXXX trata de...”
+
+Incluir em “Pontos para revisão humana”:
+
+“Substituir XXXXXX pelo número atribuído ao documento no andamento processual.”
+
+## 11. Campos desconhecidos
+
+Utilizar:
+
+- [NÚMERO DO DESPACHO]
+- [DATA]
+- [NOME DA AUTORIDADE]
+- [CARGO]
+- [DESTINATÁRIO]
+- [NÚMERO DO PROCEDIMENTO]
+
+Não inventar.
+
+## 12. Estilo
+
+Usar:
+
+- português do Brasil;
+- linguagem formal;
+- voz impessoal;
+- períodos claros;
+- numeração sequencial;
+- terminologia uniforme.
+
+Evitar:
+
+- comentários informais;
+- justificativas da IA;
+- expressões especulativas;
+- excesso de adjetivos;
+- transcrição de cabeçalhos;
+- códigos de validação;
+- endereços eletrônicos;
+- dados pessoais desnecessários.
+
+## 13. Coesão
+
+Usar conectores de forma moderada:
+
+- “Nesse sentido”;
+- “Além disso”;
+- “No entanto”;
+- “Considerando que”;
+- “Ante o exposto”;
+- “Após”;
+- “Em seguida”.
+
+## 14. Revisão
+
+Conferir:
+
+- concordância;
+- regência;
+- pontuação;
+- numeração;
+- uniformidade de “doc. n.º”;
+- nomes;
+- cargos;
+- siglas;
+- datas;
+- destinatários;
+- coerência entre síntese e determinação.
